@@ -1,0 +1,37 @@
+body{
+	margin: 0;
+	font-family: Helvetica, Arial, sans-serif;
+	background-color: teal;
+}
+header{
+	background-image: url(https://wallpapercave.com/wp/wp3528355.jpg);
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+header img{
+	border-radius: 170px;
+	width: 300px;
+	height: 300px;
+	border: 15px solid #FAEA26;
+}
+header h1{
+	color: white;
+	font-size: 45px;
+	
+}
+h1, h2{
+	font-family: 'Permanent Marker', cursive;
+}
+main{
+	max-width: 640px;
+	margin: 0 auto;
+	background-color: teal;
+	}
+h2{text-align: center;}
+main p {text-align: center;}
+footer{
+	text-align: center;
+	background-color: #20B2AA;
+
+}
